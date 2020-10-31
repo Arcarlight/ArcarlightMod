@@ -1,3 +1,6 @@
+# 请在release中下载mod文件。
+Please download the mod file in release.
+
 # ArcarlightMod / 檩芩的梦mod
 这是一个支援1.15.2的Minecraft模组。<br/>
 This is a minecraft mod of 1.15.2 version.<br/>
